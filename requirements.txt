@@ -1,0 +1,55 @@
+Version 11
+[x] each todo should have its own toggle button
+[x] toggle button should work
+
+Version 10
+[x] each todo should have its own remove button
+[x] get the button to work (remove)
+
+Version 9
+[x] there should be an li for each todo
+[x] each li should show todoText
+[x] each li should show completed
+
+Version 8
+[x] add button
+[x] edit button
+[x] remove button
+[x] toggle button
+
+Verson 7
+[x] Button to display todos
+[x] Button works
+[x] Toggle all Button which works
+
+Version 6
+[x] Toggle all function
+[x] If everything is false ==> change everything to true
+[x] if everything is true ==> change everything to false
+[x] if mixed situation ==> everything becomes true
+
+Version 5
+[x] Func for displaying todos
+[x] displayTodos should show the todoText property
+[x] displayTodos should show the completed property
+
+Version 4
+[x] It should have a function to toggle a todo
+
+Version 3
+[x] Initialise todos var with objects 
+[x] Add func should use obj
+[x] Edit func should edit objc
+
+Version 2
+[x] func to add todo
+[x] func to edit todo
+[x] func to remove todo
+
+Version 1
+[x] Place to store todos
+[x] Display todos
+[x] Add todos
+[x] Edit todos
+[x] Remove todos
+
