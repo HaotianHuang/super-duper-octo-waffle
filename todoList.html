@@ -9,8 +9,9 @@
 
 
         <button id='toggle-all-button'>Toggle All</button>
+        <input id='add-input' onkeypress="handleKeyPress(event)">
         <button id='add-button'>Add</button>
-        <input id='add-input'>
+   
 
         <ul id='todo-list-ul'>
         </ul>
@@ -145,6 +146,12 @@
             var addInput = document.getElementById('add-input');
             addButton.addEventListener('click', add);
 
+            function handleKeyPress(e){
+                var key=e.keyCode || e.which;
+                if (key==13){
+                    add();
+                }
+            }
         </script>
     </body>
 
