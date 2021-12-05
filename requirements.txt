@@ -1,3 +1,7 @@
+Version 12
+[x] each todo should be editable
+[] edit button should work
+
 Version 11
 [x] each todo should have its own toggle button
 [x] toggle button should work
